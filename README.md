@@ -1,3 +1,3 @@
 # datasciencecoursera
 Coursera Repository
-echo # datasciencecoursera >> README.md
+Hello this is a readme file
